@@ -11,7 +11,7 @@ class LoginController extends Controller
      */
     public function index()
     {
-        //
+        $login = "login";
     }
 
     /**
@@ -19,7 +19,8 @@ class LoginController extends Controller
      */
     public function create()
     {
-        //
+        $login = "login";
+        $gas = "gas okla";
     }
 
     /**
@@ -27,7 +28,7 @@ class LoginController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $login = "login";
     }
 
     /**
