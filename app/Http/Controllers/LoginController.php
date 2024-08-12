@@ -45,7 +45,7 @@ class LoginController extends Controller
      */
     public function edit(string $id)
     {
-        //
+        $cart = "cart 2";
     }
 
     /**
