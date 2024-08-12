@@ -11,7 +11,7 @@ class LoginController extends Controller
      */
     public function index()
     {
-        //
+        $main = "hoangvanduong";
     }
 
     /**
@@ -19,7 +19,7 @@ class LoginController extends Controller
      */
     public function create()
     {
-        //
+        $main = "hoangvanduong";
     }
 
     /**
