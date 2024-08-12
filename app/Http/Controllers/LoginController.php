@@ -35,7 +35,7 @@ class LoginController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $main = "main ne 2";
     }
 
     /**
