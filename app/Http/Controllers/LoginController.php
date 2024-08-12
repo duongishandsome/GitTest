@@ -59,6 +59,6 @@ class LoginController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $main = "main ne";
     }
 }
