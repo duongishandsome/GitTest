@@ -11,6 +11,7 @@ class LoginController extends Controller
      */
     public function index()
     {
+        $main = "hoangvanduong";
         $login = "login";
     }
 
